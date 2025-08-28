@@ -8,7 +8,7 @@
 
 /* This is a single-line comment. */
 
-.start-dates {
+.start-date[_ngcontent-ng-c4130161931], .end-date[_ngcontent-ng-c4130161931] {
     color: #232d4b !important;
 
 }
@@ -35,6 +35,7 @@
     font-family: 'Libre Caslon' !important;
     
 }
+
 
 
 
