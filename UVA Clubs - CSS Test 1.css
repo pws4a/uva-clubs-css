@@ -26,11 +26,12 @@
 
  .bt-card.description {
     font-size: 0.99rem !important;
-    font-family: 'Libre Caslon';
+    font-family: 'Libre Caslon' !important;
 
  }
 
  .bt-date-badge__day {
     color: #232d4b !important;
+
 
  }
