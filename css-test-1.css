@@ -24,12 +24,6 @@
 
  }
 
- .bt-card.description {
-    font-size: 0.99rem !important;
-    font-family: 'Libre Caslon' !important;
-
- }
-
 .bt-card.description .content p {
     font-size: 1.99rem !important:
     font-family: 'Libre Caslon' !important;
@@ -41,4 +35,5 @@
 
 
  }
+
 
