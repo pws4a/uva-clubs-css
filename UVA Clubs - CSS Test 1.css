@@ -1,0 +1,36 @@
+@import"https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap";
+
+@font-face {
+    font-family: 'Libre Caslon';
+    src: url("https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap");
+}
+
+
+/* This is a single-line comment. */
+
+.start-dates {
+    color: #ffffff;
+
+}
+
+ .ng-star-inserted {
+    color: #ffffff;
+
+ }
+
+ .bt-card-header {
+    color: #232d4b !important;
+    font-weight: bold !important;
+
+ }
+
+ .bt-card.description {
+    font-size: 0.99rem !important;
+    font-family: 'Libre Caslon';
+
+ }
+
+ .bt-date-badge__day {
+    color: #232d4b !important;
+
+ }
