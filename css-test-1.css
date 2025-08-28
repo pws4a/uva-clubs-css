@@ -18,7 +18,12 @@
 
  }
 
-h1.title.ng-star-inserted {
+.h1.title.ng-star-inserted {
+    color: #232d4b !important;
+    
+}
+
+.span.ng-star-inserted {
     color: #232d4b !important;
     
 }
@@ -45,6 +50,7 @@ h1.title.ng-star-inserted {
     font-family: 'Libre Caslon' !important;
     
 }
+
 
 
 
