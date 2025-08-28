@@ -18,6 +18,11 @@
     
 }
 
+.mat-tab-label-active {
+    color: #232d4b !important;
+
+}
+
 .ng-star-inserted {
     color: #ffffff !important;
 
@@ -55,6 +60,7 @@
     font-family: 'Libre Caslon' !important;
     
 }
+
 
 
 
