@@ -9,12 +9,12 @@
 /* This is a single-line comment. */
 
 .start-dates {
-    color: #232d4b;
+    color: #232d4b !important;
 
 }
 
  .ng-star-inserted {
-    color: #232d4b;
+    color: #232d4b !important;
 
  }
 
@@ -35,6 +35,7 @@
 
 
  }
+
 
 
 
