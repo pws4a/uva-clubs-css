@@ -8,9 +8,14 @@
 
 /* This is a single-line comment. */
 
-.start-date[_ngcontent-ng-c4130161931], .end-date[_ngcontent-ng-c4130161931] {
+.start-date {
     color: #232d4b !important;
 
+}
+
+.end-date {
+    color: #232d4b !important;
+    
 }
 
 .ng-star-inserted {
@@ -50,6 +55,7 @@
     font-family: 'Libre Caslon' !important;
     
 }
+
 
 
 
