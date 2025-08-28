@@ -30,8 +30,15 @@
 
  }
 
+.bt-card.description .content p {
+    font-size: 1.99rem !important:
+    font-family: 'Libre Caslon' !important;
+    
+}
+
  .bt-date-badge__day {
     color: #232d4b !important;
 
 
  }
+
