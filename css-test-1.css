@@ -6,7 +6,7 @@
 }
 
 
-/* This is a single-line comment. */
+
 
 .start-date {
     color: #232d4b !important;
@@ -23,10 +23,14 @@
 
 }
 
+/*
+
 .ng-star-inserted {
     color: #ffffff !important;
 
  }
+
+*/
 
 .h1.title.ng-star-inserted {
     color: #232d4b !important;
@@ -60,6 +64,7 @@
     font-family: 'Libre Caslon' !important;
     
 }
+
 
 
 
