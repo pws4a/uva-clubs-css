@@ -24,12 +24,6 @@
 
  }
 
-.bt-card.description .content p {
-    font-size: 1.99rem !important:
-    font-family: 'Libre Caslon' !important;
-    
-}
-
  .bt-date-badge__day {
     color: #232d4b !important;
 
@@ -37,10 +31,11 @@
  }
 
 .bt-card.description[_ngcontent-ng-c1308605751] .content p {
-    font-size: 2.99rem !important;
-
+    font-size: 1rem !important;
+    font-family: 'Libre Caslon' !important;
     
 }
+
 
 
 
