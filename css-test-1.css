@@ -32,6 +32,12 @@
 
 */
 
+::ng-deep .bt-card.description .content p {
+    color: #232d4b !important
+    
+}
+
+
 .h1.title.ng-star-inserted {
     color: #232d4b !important;
     
@@ -60,10 +66,11 @@
  }
 
 .bt-card.description[_ngcontent-ng-c1308605751] .content p {
-    font-size: 1rem !important;
+    font-size: 2rem !important;
     font-family: 'Libre Caslon' !important;
     
 }
+
 
 
 
