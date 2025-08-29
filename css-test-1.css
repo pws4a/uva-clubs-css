@@ -71,6 +71,9 @@
     
 }
 
+.get-tickets-button:not([disabled]) {
+  color: #ffffff !important;
+}
 
 
 
