@@ -57,7 +57,8 @@
  }
 
 .bt-card.description[_ngcontent-ng-c1308605751] .content p {
-    font-size: 1rem !important;
+    font-size: 1.2rem !important;
+    line-height: 1.5rem !important;
     font-family: 'Libre Caslon' !important;
     
 }
@@ -69,6 +70,7 @@
 .bt-date-badge__month {
   color: #ffffff !important;
 }
+
 
 
 
