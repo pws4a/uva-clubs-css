@@ -9,12 +9,12 @@
 
 
 .start-date {
-    color: #232d4b !important;
+    color: #4F0048 !important;
 
 }
 
 .end-date {
-    color: #232d4b !important;
+    color: #00FFF0 !important;
     
 }
 
@@ -88,7 +88,7 @@
 }
 
 .event-name {
-    font-size: 1.7rem !important;
+    font-size: 2.6rem !important;
     font-weight: 600 !important;
 }
 
@@ -98,7 +98,7 @@
 
 ::selection {
 	color: white;
-	background: #C8CBD2;
+	background: #4F0048;
 }
 
 body {
@@ -126,7 +126,7 @@ body {
 	.get-ticket-button:hover,
 	.get-tickets-button:hover,
 	.register-button:hover {
-		background-color: #C8CBD2 !important;
+		background-color: #00FFF0 !important;
 	}
 
 .event-description,
@@ -162,9 +162,8 @@ body {
 	}
 
 .event-name {
-	color: #e57200;
+	color: #FF46A2;
 	font-family: 'Libre Caslon';
-	font-size: 36px !important;
 	font-weight: bold !important;
 	letter-spacing: normal !important;
 	padding-bottom: 1rem;
@@ -181,9 +180,10 @@ body {
 }
 
 .title {
-	color: #232D4B !important;
+	color: #FF46A2 !important;
 	font-weight: bold !important;
 }
+
 
 
 
