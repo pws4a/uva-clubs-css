@@ -162,9 +162,9 @@ body {
 	}
 
 .event-name {
-	border-bottom: var(--dotted-line);
-	color: #232D4B;
+	color: #e57200;
 	font-family: 'Libre Caslon';
+	font-size: 36px !important;
 	font-weight: bold !important;
 	letter-spacing: normal !important;
 	padding-bottom: 1rem;
@@ -184,6 +184,7 @@ body {
 	color: #232D4B !important;
 	font-weight: bold !important;
 }
+
 
 
 
