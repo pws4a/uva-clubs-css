@@ -96,5 +96,95 @@
     color: #e57200 !important;
 }
 
+::selection {
+	color: white;
+	background: #C8CBD2;
+}
+
+body {
+	font-family: 'Libre Caslon';
+}
+
+.checkmark {
+	--successColor: #232D4B;
+}
+
+.direction-btn,
+.get-ticket-button,
+.register-button {
+	background-color: #232D4B !important;
+}
+
+	.direction-btn:active,
+	.get-ticket-button:active,
+	.get-tickets-button:active,
+	.register-button:active {
+		background-color: #e57200 !important;
+	}
+
+	.direction-btn:hover,
+	.get-ticket-button:hover,
+	.get-tickets-button:hover,
+	.register-button:hover {
+		background-color: #C8CBD2 !important;
+	}
+
+.event-description,
+.event-description p,
+.description, 
+.description p {
+	font-size: 16px !important;
+	line-height: 1.5rem !important;
+	max-width: 800px;
+}
+
+.event-image-wrapper:not(:has(img)) {
+	background: #232D4B !important;
+	background: linear-gradient(146deg, rgba(35, 45, 75, 1) 46%, rgba(235, 95, 12, 1) 100%) !important;
+}
+	.event-image-wrapper:not(:has(img)) .event-image-container {
+		align-items: center;
+		background: transparent !important;
+		display: flex !important;
+		height: 100% !important;
+		justify-content: center;
+		position: absolute;
+		width: 100% !important;
+	}
+	.event-image-wrapper:not(:has(img)) bt-responsive-img {
+		aspect-ratio: 1;
+		background: transparent !important;
+		content: url(https://awscdn.uvaalumni.org/favicon.png);
+		display: block !important;
+		height: auto !important;
+		position: relative !important;
+		width: 40% !important;
+	}
+
+.event-name {
+	border-bottom: var(--dotted-line);
+	color: #232D4B;
+	font-family: 'Libre Caslon';
+	font-weight: bold !important;
+	letter-spacing: normal !important;
+	padding-bottom: 1rem;
+}
+
+.event-status {
+	background-color: #ff0000 !important;
+	color: white !important;
+	line-height: 1;
+}
+
+.speaker-title {
+	--lineHeightFactor: 0.6; /* Reduce default line height for speaker title */
+}
+
+.title {
+	color: #232D4B !important;
+	font-weight: bold !important;
+}
+
+
 
 
