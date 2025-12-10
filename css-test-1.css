@@ -133,7 +133,7 @@ body {
 .event-description p,
 .description, 
 .description p {
-	font-size: 16px !important;
+	font-size: 24px !important;
 	line-height: 1.5rem !important;
 	max-width: 800px;
 }
@@ -154,7 +154,7 @@ body {
 	.event-image-wrapper:not(:has(img)) bt-responsive-img {
 		aspect-ratio: 1;
 		background: transparent !important;
-		content: url(https://awscdn.uvaalumni.org/favicon.png);
+		content: url(https://www.virginia.edu/assets/images/favicon.ico);
 		display: block !important;
 		height: auto !important;
 		position: relative !important;
@@ -184,6 +184,7 @@ body {
 	color: #232D4B !important;
 	font-weight: bold !important;
 }
+
 
 
 
